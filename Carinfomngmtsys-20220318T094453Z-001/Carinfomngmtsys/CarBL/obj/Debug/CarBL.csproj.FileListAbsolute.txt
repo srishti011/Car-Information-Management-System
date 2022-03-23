@@ -1,0 +1,11 @@
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarBL.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarBL.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarDL.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarEntity.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarDL.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\bin\Debug\CarEntity.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\obj\Debug\CarBL.csproj.AssemblyReference.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\obj\Debug\CarBL.csproj.CoreCompileInputs.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\obj\Debug\CarBL.csproj.CopyComplete
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\obj\Debug\CarBL.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarBL\obj\Debug\CarBL.pdb

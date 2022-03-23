@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1bd6d8c-8494-454f-98ca-c6a29fc8f0fa": {
+      "ProjectGuid": "a1bd6d8c-8494-454f-98ca-c6a29fc8f0fa",
+      "DisplayName": "CarApplication",
+      "ColorIndex": 0
+    },
+    "6782150f-dd09-4fa2-bad8-de377055b262": {
+      "ProjectGuid": "6782150f-dd09-4fa2-bad8-de377055b262",
+      "DisplayName": "CarEntity",
+      "ColorIndex": 1
+    },
+    "1bcb4227-0e03-475c-a322-84e337abf32d": {
+      "ProjectGuid": "1bcb4227-0e03-475c-a322-84e337abf32d",
+      "DisplayName": "CarDL",
+      "ColorIndex": 2
+    },
+    "c86e9fde-d458-46c2-988f-ccb37e4b8a87": {
+      "ProjectGuid": "c86e9fde-d458-46c2-988f-ccb37e4b8a87",
+      "DisplayName": "CarBL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

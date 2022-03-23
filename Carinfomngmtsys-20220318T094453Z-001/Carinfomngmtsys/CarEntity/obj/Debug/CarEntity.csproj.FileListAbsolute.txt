@@ -1,0 +1,6 @@
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\bin\Debug\CarEntity.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\bin\Debug\CarEntity.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\obj\Debug\CarEntity.csproj.CoreCompileInputs.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\obj\Debug\CarEntity.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\obj\Debug\CarEntity.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarEntity\obj\Debug\CarEntity.csproj.AssemblyReference.cache

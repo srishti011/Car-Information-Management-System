@@ -1,0 +1,30 @@
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.exe.config
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.exe
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarDL.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarEntity.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarDL.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarEntity.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.AssemblyReference.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.CoreCompileInputs.cache
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.CopyComplete
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.exe
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.pdb
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarBL.dll
+E:\C# Project\case_study\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarBL.pdb
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.exe.config
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.exe
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarApplication.pdb
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarBL.dll
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarEntity.dll
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarDL.dll
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarBL.pdb
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarEntity.pdb
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\bin\Debug\CarDL.pdb
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.csproj.CopyComplete
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.exe
+C:\Users\HP\Downloads\Carinfomngmtsys-20220318T094453Z-001\Carinfomngmtsys\CarApplication\CarApplication\obj\Debug\CarApplication.pdb
